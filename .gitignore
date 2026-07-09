@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Large model files / weights (optional, but standard)
+# models/*.pt
+# models/*.pth
+
+# User-requested ignore: Recording files (e.g., Recording 2026-07-08 111946.mp4)
+*Recording*
+*recording*
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm

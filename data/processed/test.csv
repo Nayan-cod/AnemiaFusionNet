@@ -1,0 +1,34 @@
+Number,Hgb,Gender,Age,dataset,image_path,label,state,geo_source,WBC,LYMp,NEUTp,LYMn,NEUTn,RBC,HCT,MCV,MCH,MCHC,PLT,PDW,PCT,region_type
+112,15.4,M,57,Italy,data/raw/images/dataset anemia/Italy/112/T_81_20190614_075610.jpg,0,Uttar Pradesh,simulated,12.6,25.845,77.511,1.88076,5.14094,5.07,46.1526,85.6,29.4,34.3,157.0,14.31251157,0.26028,urban
+52,14.4,F,24,Italy,data/raw/images/dataset anemia/Italy/52/T_21_20190608_083544.jpg,0,Rajasthan,simulated,7.2,25.845,77.511,1.88076,5.14094,5.3,46.1526,91.0,30.0,32.0,330.0,25.0,0.26028,rural
+58,12.5,M,36,India,data/raw/images/dataset anemia/India/58/20200219_195511.jpg,1,Maharashtra,simulated,8.9,13.3,76.3,1.2,6.8,4.85,34.2,70.7,21.0,29.8,173.0,12.3,0.15,urban
+17,11.5,M,57,India,data/raw/images/dataset anemia/India/17/20200209_122613.jpg,1,Bihar,simulated,7.2,21.0,84.7,0.4,3.6,3.34,28.4,85.3,27.5,32.3,107.0,14.6,0.18,urban
+89,13.7,M,23,India,data/raw/images/dataset anemia/India/89/20200302_224240.jpg,0,Assam,simulated,6.1,33.5,58.8,2.0,3.6,4.92,42.9,87.2,28.6,32.8,160.0,14.9,0.16,rural
+21,14.8,M,21,India,data/raw/images/dataset anemia/India/21/20200211_145200.jpg,0,Rajasthan,simulated,10.1,16.2,77.7,1.6,7.9,5.19,44.5,86.8,29.0,33.4,217.0,11.8,0.19,rural
+4,8.3,F,39,India,data/raw/images/dataset anemia/India/4/20200124_160522.jpg,1,Rajasthan,simulated,6.8,25.845,77.511,1.88076,5.14094,4.1,46.1526,83.0,27.0,32.0,250.0,17.4,0.26028,rural
+32,14.1,F,40,Italy,data/raw/images/dataset anemia/Italy/32/T_1_20190606_092247.jpg,0,Telangana,simulated,8.7,25.845,77.511,1.88076,5.14094,5.8,46.1526,95.0,31.0,33.0,380.0,17.1,0.26028,rural
+116,13.7,M,28,Italy,data/raw/images/dataset anemia/Italy/116/T_85_20190614_081338.jpg,0,Uttar Pradesh,simulated,7.4,25.845,77.511,1.88076,5.14094,5.6,46.1526,93.0,31.0,32.0,330.0,13.7,0.26028,rural
+53,15.1,M,43,Italy,data/raw/images/dataset anemia/Italy/53/T_22_20190608_084856.jpg,0,Tamil Nadu,simulated,7.8,25.845,77.511,1.88076,5.14094,5.3,46.1526,91.0,30.0,32.0,340.0,13.9,0.26028,rural
+15,10.9,F,30,India,data/raw/images/dataset anemia/India/15/20200204_160737.jpg,1,Maharashtra,simulated,8.3,26.2,65.1,2.2,5.4,3.79,34.3,90.7,28.4,31.4,212.0,13.8,0.2,urban
+34,11.4,F,20,India,data/raw/images/dataset anemia/India/34/20200213_154759.jpg,1,Haryana,simulated,11.83,25.845,77.511,1.88076,5.14094,4.12,46.1526,93.4,28.9,30.9,214.0,14.31251157,0.26028,rural
+5,7.8,F,29,India,data/raw/images/dataset anemia/India/5/20200124_161452.jpg,1,Uttar Pradesh,simulated,5.4,27.8,65.8,1.5,3.6,4.45,37.4,84.2,25.3,30.2,166.0,13.6,0.15,urban
+82,14.8,M,24,Italy,data/raw/images/dataset anemia/Italy/82/T_51_20190612_080714.jpg,0,Gujarat,simulated,8.0,25.845,77.511,1.88076,5.14094,5.3,46.1526,92.0,30.0,33.0,350.0,13.9,0.26028,urban
+50,8.1,F,33,India,data/raw/images/dataset anemia/India/50/20200217_154641.jpg,1,Maharashtra,simulated,6.7,25.845,77.511,1.88076,5.14094,4.0,46.1526,93.7,32.3,34.5,312.0,14.31251157,0.26028,rural
+14,11.4,F,65,Italy,data/raw/images/dataset anemia/Italy/14/14.jpg,1,Maharashtra,simulated,6.6,25.845,77.511,1.88076,5.14094,4.57,46.1526,85.6,27.6,32.2,155.0,14.31251157,0.26028,rural
+36,13.9,M,51,Italy,data/raw/images/dataset anemia/Italy/36/T_5_20190607_074439.jpg,0,West Bengal,simulated,7.6,25.845,77.511,1.88076,5.14094,5.0,46.1526,90.0,29.0,32.0,330.0,13.2,0.26028,rural
+32,11.3,M,21,India,data/raw/images/dataset anemia/India/32/20200213_153536.jpg,1,Uttar Pradesh,simulated,4.2,39.1,53.7,1.6,2.3,3.93,316.0,80.6,23.9,29.7,236.0,12.8,0.22,urban
+86,16.9,M,48,Italy,data/raw/images/dataset anemia/Italy/86/T_55_20190612_082104.jpg,0,Bihar,simulated,7.4,25.845,77.511,1.88076,5.14094,5.5,46.1526,93.0,31.0,32.0,320.0,16.2,0.26028,rural
+88,13.7,F,38,Italy,data/raw/images/dataset anemia/Italy/88/T_57_20190612_085736.jpg,0,Chhattisgarh,simulated,4.3,43.0,47.5,1.9,2.0,5.29,45.5,86.2,26.8,31.2,111.0,11.5,0.1,urban
+41,11.7,M,50,India,data/raw/images/dataset anemia/India/41/20200214_134745.jpg,1,Uttar Pradesh,simulated,6.8,29.2,63.5,2.0,4.3,3.99,34.5,86.5,26.8,31.0,226.0,12.3,0.2,rural
+59,10.6,F,31,India,data/raw/images/dataset anemia/India/59/20200219_201501.jpg,1,Uttar Pradesh,simulated,4.7,27.8,62.3,1.3,2.9,4.38,38.4,87.8,28.0,32.0,171.0,11.5,0.15,rural
+1,12.2,M,29,India,data/raw/images/dataset anemia/India/1/20200118_164733.jpg,1,West Bengal,simulated,8.19,25.845,77.511,1.88076,5.14094,4.32,46.1526,88.0,26.9,30.5,378.0,14.31251157,0.26028,rural
+47,14.1,M,20,Italy,data/raw/images/dataset anemia/Italy/47/T_16_20190608_075548.jpg,0,Maharashtra,simulated,8.2,25.845,77.511,1.88076,5.14094,5.2,46.1526,91.0,30.0,33.0,360.0,14.1,0.26028,rural
+109,15.7,M,59,Italy,data/raw/images/dataset anemia/Italy/109/T_78_20190614_074753.jpg,0,Uttar Pradesh,simulated,7.6,25.845,77.511,1.88076,5.14094,5.0,46.1526,90.0,29.0,32.0,330.0,13.3,0.26028,rural
+96,14.7,M,45,Italy,data/raw/images/dataset anemia/Italy/96/T_65_20190613_075213.jpg,0,Maharashtra,simulated,7.5,23.2,71.1,1.7,5.4,4.76,41.9,88.1,28.5,32.4,132.0,16.4,0.13,urban
+103,14.1,M,59,Italy,data/raw/images/dataset anemia/Italy/103/T_72_20190613_083940.jpg,0,Andhra Pradesh,simulated,2.7,43.4,49.5,1.2,1.3,4.77,41.2,74.1,27.4,31.7,169.0,14.3,0.17,rural
+3,10.7,F,30,India,data/raw/images/dataset anemia/India/3/20200124_155418.jpg,1,Andhra Pradesh,simulated,7.1,11.2,59.0,1.2,3.0,90.8,39.4,83.3,26.5,31.9,124.0,12.0,0.11,rural
+85,14.5,M,63,India,data/raw/images/dataset anemia/India/85/20200229_205012.jpg,0,Bihar,simulated,7.9,25.845,77.511,1.88076,5.14094,5.1,46.1526,90.0,29.0,32.0,340.0,16.0,0.26028,rural
+55,10.5,M,65,India,data/raw/images/dataset anemia/India/55/20200219_180148.jpg,1,Rajasthan,simulated,9.39,25.845,77.511,1.88076,5.14094,3.73,46.1526,77.5,23.1,29.8,258.0,14.31251157,0.26028,rural
+78,15.4,M,25,Italy,data/raw/images/dataset anemia/Italy/78/T_47_20190611_094951.jpg,0,Tamil Nadu,simulated,7.4,25.845,77.511,1.88076,5.14094,5.6,46.1526,93.0,31.0,32.0,330.0,15.6,0.26028,rural
+83,14.8,M,25,Italy,data/raw/images/dataset anemia/Italy/83/T_52_20190612_081110.jpg,0,West Bengal,simulated,8.3,21.9,68.8,1.8,5.7,5.38,47.8,88.9,28.0,31.5,153.0,14.1,0.14,rural
+110,15.8,M,45,Italy,data/raw/images/dataset anemia/Italy/110/T_79_20190614_075002.jpg,0,Punjab,simulated,4.6,20.9,70.6,1.0,3.2,5.09,41.6,81.8,26.3,32.2,110.0,15.4,0.11,urban
